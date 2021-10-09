@@ -1,7 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Noah - aka ShmexyPink 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ShmexyPink?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShmexyPink&screen_name=ShmexyPink)
-[![Instagram Follow](https://img.shields.io/twitter/follow/ShmexyPink?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShmexyPink&screen_name=ShmexyPink)
 
 ## I'm a child, learning Software Developer!!
 
@@ -24,7 +23,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ShmexyPink's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shm3xyP1nk&show_icons=true&hide_border=true" />
+  <img align="left" alt="ShmexyPink's GitHub Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shm3xyP1nk)](https://github.com/anuraghazra/github-readme-stats)
+" />
 
 </details>
 
