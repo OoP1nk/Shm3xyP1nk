@@ -1,4 +1,4 @@
-### Hi there, I'm Noah - aka ShmexyPink 👋
+### Hi there, I'm Noah - aka OoP1nk 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ShmexyPink?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShmexyPink&screen_name=ShmexyPink)
 
@@ -23,7 +23,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![ShmexyPink's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shm3xyP1nk&show_icons=true&theme=radical)
+  ![OoP1nk's GitHub stats](https://github-readme-stats.vercel.app/api?username=OoP1nk&show_icons=true&theme=radical)
 
 </details>
 
