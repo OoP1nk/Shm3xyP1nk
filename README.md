@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=oop1nk)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Hi there, I'm OoP1nk 👋
 
 [![Twitter](https://img.shields.io/twitter/follow/oo_p1nk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShmexyPink&screen_name=ShmexyPink)
